@@ -55,14 +55,16 @@ h1 {
   border-radius: 10px;
   box-shadow: 10px 10px 40px gray;
 }
-#web-dev{  
+#web-dev {
   border-left: 7px solid;
   border-image: linear-gradient(blue, cyan);
   border-image-slice: 1;
 }
-#full-stack{
+#full-stack {
   border-left: 7px solid;
   border-image: linear-gradient(salmon, tomato);
   border-image-slice: 1;
-
+}
+footer {
+  text-align: center;
 }
