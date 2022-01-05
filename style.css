@@ -52,4 +52,10 @@ h1{
     padding: 20px;
     border-radius: 10px;
     box-shadow: 10px 10px 40px gray;
+    border-left: 10px solid orange;
+}
+#webdexp{
+    border-left: 7px solid;
+    background-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
 }
